@@ -1,4 +1,4 @@
 const os = require('os');
 
 const homeDirectory = os.homedir();
-console.log("Home Directory" . homeDirectory);
+console.log("Home Directory" , homeDirectory);
